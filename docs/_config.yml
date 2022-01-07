@@ -43,6 +43,7 @@ plugins:
 #
 exclude:
   - _posts/2022-01-06-welcome-to-jekyll.markdown
+  - _layouts/resume.html
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
