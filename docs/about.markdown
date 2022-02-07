@@ -7,7 +7,7 @@ permalink: /about/
 <br>
 
 
-#### [link to CV](CV_vcampos.pdf)
+#### [link to CV](resume_2022.pdf)
 
 
 
