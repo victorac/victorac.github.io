@@ -1,1 +1,1 @@
-# victorac.github.io
+This repository serves as a base for GitHub Pages project sites.
